@@ -1,5 +1,5 @@
 # Лабораторна робота №7: Дослідження фільтра Калмана
-
+# [![Открыть в CodePen](https://img.shields.io/badge/CodePen-Open%20Project-blue?style=for-the-badge&logo=codepen)](https://codepen.io/ffcnismw-the-sasster/full/PwYmYBr)
 ## Мета роботи
 Дослідити принципи роботи та практичне застосування фільтра Калмана, вивчити особливості його налаштування та вплив різних параметрів на ефективність фільтрації сигналів.
 
